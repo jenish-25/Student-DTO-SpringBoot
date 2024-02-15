@@ -1,0 +1,1 @@
+# SpringBootStudentDTOProject  ## Overview This project is a Spring Boot-based Student DTO implementation, designed to store the marks and subject and name of student.  # Technologies Used - Spring Boot
